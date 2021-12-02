@@ -34,4 +34,11 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/94025287/144351239-8b170293-64cb-40ce-ac18-2b9fcc37ab0a.png)
 
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+![image](https://user-images.githubusercontent.com/94025287/144351297-e45e00b9-713f-44d0-8302-20e1eb07adb6.png)
+
+3.1 Implemente el circuito que se presenta en la figura 3.1.
+
+![image](https://user-images.githubusercontent.com/94025287/144351340-fb568ae8-9cb5-40f0-83e8-ce269d4f10d7.png)
 
