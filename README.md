@@ -38,6 +38,9 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/94025287/144351297-e45e00b9-713f-44d0-8302-20e1eb07adb6.png)
 
+![image](https://user-images.githubusercontent.com/94025287/144353103-644dd8ad-3ae9-4ac1-b8ea-c0e92b1be4ec.png)
+
+
 3.1 Implemente el circuito que se presenta en la figura 3.1.
 
 ![image](https://user-images.githubusercontent.com/94025287/144351340-fb568ae8-9cb5-40f0-83e8-ce269d4f10d7.png)
