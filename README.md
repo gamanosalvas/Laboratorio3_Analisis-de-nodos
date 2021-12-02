@@ -30,3 +30,8 @@ Objetivos Específicos:
 
 2. MARCO TEÓRICO (RESUMEN)
 
+![image](https://user-images.githubusercontent.com/94025287/144351222-1dc84cd9-cd63-4a9b-a1c7-e4cb1c334252.png)
+
+![image](https://user-images.githubusercontent.com/94025287/144351239-8b170293-64cb-40ce-ac18-2b9fcc37ab0a.png)
+
+
