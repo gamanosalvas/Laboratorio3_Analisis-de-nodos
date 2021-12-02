@@ -56,7 +56,7 @@ la tabla 3.1.
 
 ![image](https://user-images.githubusercontent.com/94025287/144352009-f9f150f4-9451-4e69-abe2-b8f2a6fd4c5f.png)
 
-![image](https://user-images.githubusercontent.com/94025287/144352033-94d7429c-58f4-4aa7-b47c-81e6458d1888.png)
+![image](https://user-images.githubusercontent.com/94025287/144467195-b3857335-1746-4bda-8c76-2967a061e45d.png)
 
 Tabla 3.4. Resultados obtenidos para el circuito de la figura 3.1.
 
